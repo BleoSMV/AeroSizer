@@ -490,7 +490,6 @@ The screenshots use an A320-class example: 150 passengers, 5,000 km, Mach
 - EASA CS-25, *Certification Specifications for Large Aeroplanes*.
 - ICAO Annex 16, Volume I, *Aircraft Noise*.
 
-(disclaimer: this description was created with the help of AI)
 
 ## Author
 
