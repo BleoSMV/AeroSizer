@@ -1,0 +1,105 @@
+AeroSizer — Automated Aircraft Preliminary Sizing Workbook for Excel
+Copyright (c) 2026 Sajjad Mohammed. All rights reserved.
+Licence issued: 13 October 2026.
+
+This is not an open-source licence. This work is a Microsoft Excel
+workbook for aircraft conceptual design — a proof-of-concept academic
+design tool, not commercial engineering software. The workbook and the
+other files in this repository are made publicly viewable, but the author
+retains full copyright and all rights not expressly granted below.
+
+1. PERSONAL AND EDUCATIONAL USE
+   Private individuals, students and educators may view, download and run
+   this workbook free of charge for personal, educational and
+   non-commercial purposes only. You may edit or modify a copy for your
+   own private study, but never for submission as academic work (see
+   clause 3).
+
+2. ATTRIBUTION AND INTEGRITY
+   You may not present this workbook, in whole or in part, modified or
+   unmodified, as your own work. This includes submitting it, or any
+   derivative of it, for academic assessment, publishing it under your own
+   name, or removing this notice. Any permitted copy must retain this
+   licence file and the copyright notice above.
+
+3. ACADEMIC SUBMISSION PROHIBITED
+   This workbook must not be submitted, in whole or in part, for any
+   academic assessment, coursework, project, dissertation, examination or
+   other credit-bearing work by anyone other than the author. This applies
+   whether the workbook is unmodified, edited, modified, reformatted,
+   renamed, re-coloured, or rebuilt in or translated into another tool or
+   language.
+
+   Entering your own input values, or changing the assumptions, does not
+   make the workbook your own work. Its formulas, its methods as
+   implemented, its layout and its drawings remain the author's.
+
+   Any such submission is automatically a breach of this licence. The
+   author may report it to the institution concerned as suspected academic
+   misconduct, and may supply this repository and its commit history as
+   evidence of prior authorship.
+
+4. AGREED DAMAGES FOR ACADEMIC SUBMISSION
+   By downloading or using this workbook you agree that a breach of
+   clause 3 causes the author loss that is difficult to quantify, and that
+   GBP 1,000 (one thousand pounds sterling) for each submission is a
+   reasonable pre-estimate of that loss. That sum is payable to the author
+   on demand. It is in addition to, and does not limit, any other remedy
+   available to the author, including an injunction and recovery of legal
+   costs.
+
+5. NO REDISTRIBUTION
+   You may not redistribute this workbook or any derivative of it, whether
+   free or paid, without the author's prior written permission.
+
+6. COMMERCIAL USE
+   Any commercial use whatsoever — including use within a business, use to
+   provide paid services, incorporation into a commercial product, or any
+   use intended for commercial advantage — is prohibited without the
+   author's prior written permission. Anyone wishing to make commercial use
+   of this workbook must contact the author and agree terms (including any
+   fee) in writing before such use begins.
+
+7. NOT FOR REAL-WORLD AIRCRAFT DESIGN
+   This workbook is a concept-stage academic project. Its aerodynamic,
+   performance, weight, stability, structural and cost calculations are
+   simplified and illustrative, and its geometry is a conceptual design
+   only. It is not a certified engineering tool, and its outputs have not
+   been checked, approved or signed off by any qualified or chartered
+   engineer or by any aviation authority.
+
+   The design, manufacture, modification, certification or operation of
+   any real aircraft or other physical article based in whole or in part
+   on this workbook or its outputs is prohibited without the author's
+   prior written knowledge and approval, and in all cases requires
+   independent verification and sign-off by suitably qualified engineers
+   in accordance with the applicable laws, airworthiness standards and
+   regulations of the relevant jurisdiction. Any person who proceeds
+   without these does so entirely at their own risk and assumes sole
+   responsibility for the consequences.
+
+8. NO WARRANTY
+   THE WORKBOOK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+   NO REPRESENTATION IS MADE THAT ITS CALCULATIONS OR OUTPUTS ARE
+   ACCURATE, COMPLETE OR SUITABLE FOR ANY PURPOSE.
+
+9. NO LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE WORKBOOK, ITS OUTPUTS, OR ANY
+   AIRCRAFT OR ARTICLE DESIGNED, BUILT OR MODIFIED IN RELIANCE ON THEM,
+   INCLUDING ANY USE UNDERTAKEN WITHOUT THE AUTHOR'S KNOWLEDGE OR APPROVAL
+   IN BREACH OF CLAUSE 7.
+
+10. TERMINATION
+   Any breach of these terms ends the permissions granted above
+   immediately.
+
+11. GOVERNING LAW
+   This licence is governed by the laws of England and Wales, and the
+   courts of England and Wales have jurisdiction over any dispute arising
+   from it.
+
+Contact for licensing enquiries: [https://github.com/BleoSMV]
